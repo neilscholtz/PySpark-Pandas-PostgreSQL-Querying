@@ -7,5 +7,6 @@ This will initially focus on the querying of data, then later branch out to incl
 # Quickstart
 1. Rename `db_creds_template.py` to `db_creds.py` and update the databse information
 2. Create the necessary tables for Postgres, these are the first steps included in the `SQL.ipynb` file.
+3. Install PySpark locally on a Windows machine (https://bigdata-madesimple.com/guide-to-install-spark-and-use-pyspark-from-jupyter-in-windows/)
 
 All the data used is in the `data/` folder. 
